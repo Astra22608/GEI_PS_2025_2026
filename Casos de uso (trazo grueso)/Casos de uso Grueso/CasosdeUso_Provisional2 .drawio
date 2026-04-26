@@ -1,0 +1,188 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0" version="29.6.0">
+  <diagram name="Página-1" id="2KlZeQLEh8g240cARnXz">
+    <mxGraphModel dx="1708" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r00ueKRFa5bYe4XO3dFN-49" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;direction=south;" value="Diagrama de Casos de Uso Inicial Completo (Grueso)" vertex="1">
+          <mxGeometry height="50" width="230" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vgUaUAu6rn8OS-CrR2ZP-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="ACT 01.&lt;div&gt;Usuario&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="50" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="vgUaUAu6rn8OS-CrR2ZP-9" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="ACT 03.&lt;div&gt;Cliente&amp;nbsp;&lt;/div&gt;&lt;div&gt;autenticado&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="230" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="vgUaUAu6rn8OS-CrR2ZP-10" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="ACT 06.&lt;div&gt;Administrador&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="1070" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="vgUaUAu6rn8OS-CrR2ZP-12" edge="1" parent="1" source="vgUaUAu6rn8OS-CrR2ZP-13" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="930" y="150" as="sourcePoint" />
+            <mxPoint x="1040" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgUaUAu6rn8OS-CrR2ZP-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="CU 10.Bloquear vehículo." vertex="1">
+          <mxGeometry height="40" width="130" x="790" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="vgUaUAu6rn8OS-CrR2ZP-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="CU 11.Desbloquear vehículo." vertex="1">
+          <mxGeometry height="40" width="130" x="760" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="vgUaUAu6rn8OS-CrR2ZP-15" edge="1" parent="1" source="vgUaUAu6rn8OS-CrR2ZP-14" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1000" y="240" as="sourcePoint" />
+            <mxPoint x="1040" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgUaUAu6rn8OS-CrR2ZP-16" edge="1" parent="1" source="vgUaUAu6rn8OS-CrR2ZP-17" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="860" y="290" as="sourcePoint" />
+            <mxPoint x="1040" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vgUaUAu6rn8OS-CrR2ZP-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="CU 12.Ver incidencias." vertex="1">
+          <mxGeometry height="40" width="110" x="730" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-2" edge="1" parent="1" source="B2EHX2ck9JUiw_s1Sb4J-3" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="940" y="580" as="sourcePoint" />
+            <mxPoint x="1050" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="CU 13.Bloqueo de usuarios." vertex="1">
+          <mxGeometry height="40" width="130" x="800" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-6" edge="1" parent="1" source="B2EHX2ck9JUiw_s1Sb4J-7" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="870" y="720" as="sourcePoint" />
+            <mxPoint x="1050" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="CU 17.Gestión de personal." vertex="1">
+          <mxGeometry height="50" width="120" x="780" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-9" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="ACT 02.&lt;div&gt;Cliente no&amp;nbsp;&lt;/div&gt;&lt;div&gt;autenticado&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="300" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-10" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="ACT 05.&lt;div&gt;Servicio&lt;/div&gt;&lt;div&gt;mantenimiento&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="1070" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-12" edge="1" parent="1" source="vgUaUAu6rn8OS-CrR2ZP-9" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="220" y="690" as="sourcePoint" />
+            <mxPoint x="90" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="CU 04.Editar perfil." vertex="1">
+          <mxGeometry height="40" width="100" x="440" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="CU 05.Comprar bono." vertex="1">
+          <mxGeometry height="40" width="131.5" x="500" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-20" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="B2EHX2ck9JUiw_s1Sb4J-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="690" as="sourcePoint" />
+            <mxPoint x="320" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-21" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="B2EHX2ck9JUiw_s1Sb4J-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="690" as="sourcePoint" />
+            <mxPoint x="320" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="CU 06.Reservar vehículo." vertex="1">
+          <mxGeometry height="40" width="120" x="530" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-26" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="B2EHX2ck9JUiw_s1Sb4J-25" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="690" as="sourcePoint" />
+            <mxPoint x="587" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="CU 07. Iniciar alquiler." vertex="1">
+          <mxGeometry height="40" width="120" x="530" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="B2EHX2ck9JUiw_s1Sb4J-28" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="690" as="sourcePoint" />
+            <mxPoint x="777" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-30" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="CU 01. Registrar en la aplicación." vertex="1">
+          <mxGeometry height="40" width="160" x="410" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-31" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="CU 02.Iniciar sesión." vertex="1">
+          <mxGeometry height="40" width="120" x="417.5" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-36" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="B2EHX2ck9JUiw_s1Sb4J-30" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="250" as="sourcePoint" />
+            <mxPoint x="390" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-37" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="B2EHX2ck9JUiw_s1Sb4J-31" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="250" as="sourcePoint" />
+            <mxPoint x="390" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-47" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="CU 09. Reportar incidencias." vertex="1">
+          <mxGeometry height="40" width="123" x="390" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-48" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="B2EHX2ck9JUiw_s1Sb4J-47" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points" />
+            <mxPoint x="270" y="690" as="sourcePoint" />
+            <mxPoint x="500" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-50" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="CU 03.Ver vehículos disponibles." vertex="1">
+          <mxGeometry height="45" width="135" x="692" y="332.5" as="geometry" />
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-52" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="B2EHX2ck9JUiw_s1Sb4J-50" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="90" y="450" as="sourcePoint" />
+            <mxPoint x="552.5" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-56" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="CU 14.Gestión de vehículos." vertex="1">
+          <mxGeometry height="40" width="130" x="780" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-57" edge="1" parent="1" source="B2EHX2ck9JUiw_s1Sb4J-56" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="850" y="710" as="sourcePoint" />
+            <mxPoint x="1050" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-60" edge="1" parent="1" source="B2EHX2ck9JUiw_s1Sb4J-61" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="860" y="750" as="sourcePoint" />
+            <mxPoint x="1050" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-61" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="CU 15.Gestión tarifas/bonos." vertex="1">
+          <mxGeometry height="40" width="120" x="772.5" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-62" edge="1" parent="1" source="B2EHX2ck9JUiw_s1Sb4J-63" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="890" y="780" as="sourcePoint" />
+            <mxPoint x="1050" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="B2EHX2ck9JUiw_s1Sb4J-63" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="CU 16.Consultar estado de la flota.." vertex="1">
+          <mxGeometry height="40" width="125" x="770" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="EQvgqDFdK1D8JpT2o990-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="CU 08. Finalizar alquiler." vertex="1">
+          <mxGeometry height="40" width="120" x="530" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="EQvgqDFdK1D8JpT2o990-2" edge="1" parent="1" source="EQvgqDFdK1D8JpT2o990-1" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="870" y="520" as="sourcePoint" />
+            <mxPoint x="270" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
