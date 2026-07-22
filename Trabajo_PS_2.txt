@@ -1,0 +1,92 @@
+Trabajo PS 2
+PROTOTIPADO -> Balsamiq : https://balsamiq.com/
+
+En la primera parte de la práctica, debemos hacer el prototipado del trabajo que tenemos que realizar (Santi recomendo hacer el prototipado en balsamiq).
+
+En el prototipo tenemos que ver como realmente tiene que funcionar nuestro trabajo, asi como ver las principales funciones que debemos implementar, así como deberían funcionar estas funciones.
+
+También debemos definir los actores (mirar teoría para recordar lo que es) más sus casos de uso.
+
+Deberíamos probar el prototipo varias veces para poder ver como desglosar, por ejemplo, en el caso que se presenta en las diapositivas, observar las distintas formas de prestar (en nuestro caso se verá cuales debemos desglosar).
+
+También debemos hacer descripciones de trazo grueso, explicando en alto nivel lo que hace cada función.
+
+Numeración -> NO poner la numeración de las funciones tipo 10.1, 10.2,...; si, por ejemplo, en el caso de las presentaciones, cambiamos la función prestar con número 10, al hacer y dividir la función prestar en dos, no poner a una de estas divisiones 10.1, si no cambiar el número (por ejemplo, 11 o el número que queramos). NO TIENEN PORQUE SEGUIR UN ORDEN ESOS NÚMEROS.
+
+Luego, cuando el prototipo ya este bien realizado y ya evolucionado, debemos hacer una descripción de trazo fino.
+
+El diagrama (durante el tiempo que dure el proyecto, tiene que ir evolucionando.
+
+Ejemplos de descripciones (tanto de trazo grueso como fino) y prototipado -> presentación "Cómo proceder".
+
+PRECONDICIONES -> poner aquellas que no se pueden observar en el prototipado. PONER LAS MÁS RELEVANTES. "Estar identificado/autenficado en el sistema" -> ya se sobreentiende en el prototipado, pero si queremos ponerlo, DEBEMOS PONERLO SIEMPRE.
+
+TRAZO FINO:
+	Descripción -> Indica que hace cada función.
+	Precondición -> 
+	Secuencia normal -> como debe hacer cada función, poco a poco y detallado.
+		Sistema -> impares
+		Usario -> pares (usar como si fuera un dialogo).
+
+		NO hacer referencias de pantalla, porque se entiende que es lo que REALMENTE EL USUARIO QUIERE, cuando puede que no sea así. Puedo hacer referencia a las pantallas si, y solo si, las personas a las 							que se les presenta saben que son un APOYO a la explicación, no una pantalla real definitiva.
+		
+	Postcondición.
+	Excepciones.
+	Comentarios.
+	
+RESUMEN: debemos ir de la general a lo particular, revisar con el usuario que no hay funciones que faltan, empiezamos prototipado, que marca como va nuestro diagrama y como van las nuevas descripciones.
+
+OJO -> un caso de uso "terminado" puede sufrir modificaciones, por lo que deberiamos añadir casos.
+
+ESPECIFICACIÓN DE REQUISITOS.
+Debemos entregarlo con todas las especificaciones de nuestro trabajo.
+Plantilla -> aula virtual con el nombre "Especificación de requisitos".
+
+Tiene que ir pasando por distintas fases (deberemos ir haciendo cambios en los número X.Y).
+	Modificaciones de X -> despúes de entregar al usuario.
+	Modificaciones de Y -> despúes de cambios realizados por nosotros.
+	
+Especificar un historial de revisiones.
+
+INDICE -> Partes del proyecto. Cada vez que entregemos al cliente, tiene que ser muy cuidado, debemos ir actualizando el número de páginas, mantener la tabulación,...
+
+INDICE DE FIGURAS.
+	Diagrama de casos de uso.
+
+	
+2. Participantes del proyecto.
+Pueden designarse roles (NO TODOS TENEMOS QUE HACER TODO, por ejemplo, uno puede encargarse del protipado, otro mirar el documento de la especificación de requisitos,... PERO TODOS DEBEMOS PARTICIPAR EN TODO).
+
+4.Catálogo de requisitos.
+Escribir a partir del 4.1.1
+
+4.1.1 -> Podemos tener varios casos de usos, o solo uno, como queramos, solo que se visualice bien. NO HACER UNO A ALTO NIVEL Y OTRO A BAJO NIVEL.
+
+4.1.2 -> Describir actores del sistema.
+	 ENT 0.1 SIEMPRE, pero debemos cubrirlo siempre.
+	 
+4.1.3 -> Cada caso de uso tenemos que especificarla.
+
+4.2 -> Requisitos no funcionales. (Caso de uso de muy alto nivel). Podria no existir, asi que podriamos no ponerlo, pero si surge debe aparecer. 
+
+5. Matriz de rastreabilidad -> todos los casos de uso con sus entrevistas (en la vida real es muy importante, pero en nuestro proyecto no tanto). LA VAMOS SIMULAR -> todos en el ENT 0.1.
+
+6. Glosario de términos -> definir términos que surgieron.
+7. Conflictos -> partes contradictorias que ahora mismo no puedo solucionar, pero que a lo mejor mas adelante se puede solucionar. (En nuestro caso, si Santi nos dice una cosa y Virginia otra distinta).
+
+APENDICES.
+Cosas que tenemos que añadir (A -> Acta de reunion, B -> prototipos (depende de cuantos tengamos serán B, C,...)) -> generados en un pdf (balsamiq hace pdfs con enlaces, los cuales debemos conservar para poder mandar).
+
+Si no tenemos comentarios -> ponemos N/A
+
+DOMINIO DEL TRABAJO: -> tenemos que preparar la entrevista.
+Empresa de alquiler de vehiculos. 
+	Ejemplos: (podemos escoger lo que queramos, pero tenemos estos ejemplos).
+		Alquiler de coches en aeropuertos,... y devolverlos donde quieras.
+		Coches y motos repartidos por una ciudad, donde podemos alquilar y pagan por horas de uso.
+		Vehiculos de trabajo o furgonetas.
+		...
+		
+	Preparar la entrevista para nuestro dominio en concreto.
+
+
